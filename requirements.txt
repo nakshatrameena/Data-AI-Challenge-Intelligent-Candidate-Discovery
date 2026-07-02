@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Werkzeug
+SQLite
+Rule-based AI scoring
+Explainable ranking
+REST API
